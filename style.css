@@ -66,6 +66,10 @@ body {
     color: #dadada93;
     margin-bottom: 1vw;
 }
+#page-bottom>h1{
+    color: #dadada93;
+    margin-bottom: 1vw;
+}
 #page1{
     position: relative;
     height: 100vh;
